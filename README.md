@@ -1,2 +1,2 @@
 # Algorithms-and-data-structures-
-Various algorithms and data structures implemented in Python.
+Various algorithms and data structures implemented in Python. In order to execute the programs, install the Python interpreter from the Python website (https://www.python.org/downloads/). Once installed open the batch file in the directory of the program you want to run to open Windows Command Prompt in that directory. After the command prompt is open you can execute the desired python file with "python filename.py".  
