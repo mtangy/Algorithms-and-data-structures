@@ -1,0 +1,98 @@
+
+C:\Users\tangy_000\Documents\CS 340\CS340_pr2_MichaelTangy>python bst.py
+  File "bst.py", line 101
+    while (query != "exit"):
+                            ^
+TabError: inconsistent use of tabs and spaces in indentation
+
+C:\Users\tangy_000\Documents\CS 340\CS340_pr2_MichaelTangy>python bst.py
+  File "bst.py", line 103
+    query = input("what word would you like to find?:")
+                                                      ^
+TabError: inconsistent use of tabs and spaces in indentation
+
+C:\Users\tangy_000\Documents\CS 340\CS340_pr2_MichaelTangy>python bst.py
+  File "bst.py", line 103
+    query = input("what word would you like to find?:")
+                                                      ^
+TabError: inconsistent use of tabs and spaces in indentation
+
+C:\Users\tangy_000\Documents\CS 340\CS340_pr2_MichaelTangy>python bst.py
+  File "bst.py", line 12
+    min = query.replace("*","a")
+                               ^
+TabError: inconsistent use of tabs and spaces in indentation
+
+C:\Users\tangy_000\Documents\CS 340\CS340_pr2_MichaelTangy>python bst.py
+
+
+Populating list with words in file...
+
+sorting list ...
+
+Sorting time 15k: 0.09225404348819959
+
+
+Populating list with words in file...
+
+sorting list ...
+
+Sorting time: 23.55626314979217
+
+
+Populating list with words in file...
+
+sorting list ...
+
+Sorting time 30k: 0.21912417135899176
+
+
+Populating list with words in file...
+
+sorting list ...
+
+Sorting time: 107.35859384111552
+
+
+Populating list with words in file...
+
+sorting list ...
+
+Sorting time 45k: 0.3535989027650146
+
+
+Populating list with words in file...
+
+sorting list ...
+
+Sorting time : 248.9489468503478
+
+
+Populating list with words in file...
+
+sorting list ...
+
+Sorting time 60k: 0.5147030421213117
+
+
+Populating list with words in file...
+
+sorting list ...
+
+Sorting time : 451.87401671044097
+
+
+Populating list with words in file...
+
+sorting list ...
+
+Sorting time 75k: 0.6369257826896728
+
+
+Populating list with words in file...
+
+sorting list ...
+
+Sorting time : 702.8922848332454
+
+C:\Users\tangy_000\Documents\CS 340\CS340_pr2_MichaelTangy>

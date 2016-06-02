@@ -1,0 +1,38 @@
+Microsoft Windows [Version 6.3.9600]
+(c) 2013 Microsoft Corporation. All rights reserved.
+
+C:\Users\tangy_000\Documents\CS 340\CS340_pr2_MichaelTangy>python bst.py
+
+
+Populating list with words in file...
+
+sorting list ...
+
+Sorting time 15k:
+
+ 0.11362260154788507
+what word would you like to find?:fed
+type 'exit' to exit
+words found:
+fed
+Search time :
+ 0.00012082647172206862
+
+
+what word would you like to find?:cannas
+type 'exit' to exit
+words found:
+cannas
+Search time :
+ 8.86371800348229e-05
+
+
+what word would you like to find?:sevens
+type 'exit' to exit
+words found:
+sevens
+Search time :
+ 0.00018847063543603326
+
+
+what word would you like to find?:
